@@ -1,0 +1,413 @@
+1654245322032	geckodriver	INFO	Listening on 127.0.0.1:62409
+1654245325123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62410" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileAcxtr9"
+1654245325833	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62410
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileAcxtr9\\search.json.mozlz4", (void 0)))
+1654245328140	Marionette	INFO	Listening on port 62433
+Read port: 62433
+DevTools listening on ws://localhost:62410/devtools/browser/1e9eae05-7a03-4e59-a4de-f0cff49a131e
+1654245328298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654249291040	Marionette	INFO	Stopped listening on port 62433
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilehAOW39"
+1654245459234	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62464
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilehAOW39\\search.json.mozlz4", (void 0)))
+1654245461174	Marionette	INFO	Listening on port 62487
+DevTools listening on ws://localhost:62464/devtools/browser/487834b9-9dea-44d6-9a30-9212ff5395e0
+Read port: 62487
+1654245461300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654249291158	Marionette	INFO	Stopped listening on port 62487
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileIUv9BE"
+1654245505859	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62514
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileIUv9BE\\search.json.mozlz4", (void 0)))
+1654245507720	Marionette	INFO	Listening on port 62535
+Read port: 62535
+DevTools listening on ws://localhost:62514/devtools/browser/ea09e37e-50c9-420f-9b5b-6ec55d90dab9
+1654245507812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654245515822	Marionette	INFO	Stopped listening on port 62535
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654248817379	geckodriver	INFO	Listening on 127.0.0.1:53577
+1654248820443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53578" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileC5YJIE"
+1654248820825	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53578
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileC5YJIE\\search.json.mozlz4", (void 0)))
+1654248822705	Marionette	INFO	Listening on port 53603
+DevTools listening on ws://localhost:53578/devtools/browser/5078c7dd-896b-4ac8-8b7c-5888bcbfdb2b
+Read port: 53603
+1654248822823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654249290714	Marionette	INFO	Stopped listening on port 53603
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53696" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileUIA1gt"
+1654248887756	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53696
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileUIA1gt\\search.json.mozlz4", (void 0)))
+1654248889706	Marionette	INFO	Listening on port 53720
+DevTools listening on ws://localhost:53696/devtools/browser/5cef1050-8dc9-40a4-801b-3d24d3f7cc6e
+Read port: 53720
+1654248889839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654249290700	Marionette	INFO	Stopped listening on port 53720
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+sgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ileHrOsZh"
+1654249157101	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54019
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileHrOsZh\\search.json.mozlz4", (void 0)))
+1654249159136	Marionette	INFO	Listening on port 54041
+DevTools listening on ws://localhost:54019/devtools/browser/b40a18b0-e5bd-42bc-b7cc-59fdbffdcdb4
+Read port: 54041
+1654249159316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654249290699	Marionette	INFO	Stopped listening on port 54041
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654251099283	geckodriver	INFO	Listening on 127.0.0.1:60610
+1654251102344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60611" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofile5IxzBW"
+1654251102789	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60611
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofile5IxzBW\\search.json.mozlz4", (void 0)))
+1654251104751	Marionette	INFO	Listening on port 60633
+Read port: 60633
+1654251104907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:60611/devtools/browser/6fca3c01-712c-4363-b9c7-ef59351eee35
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261937347	Marionette	INFO	Stopped listening on port 60633
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileBnj7wr"
+1654251184770	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53761
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileBnj7wr\\search.json.mozlz4", (void 0)))
+1654251186659	Marionette	INFO	Listening on port 53783
+DevTools listening on ws://localhost:53761/devtools/browser/c733a769-db73-4ceb-a5ed-14bc4e013117
+Read port: 53783
+1654251186866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261962613	Marionette	INFO	Stopped listening on port 53783
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileLMNAmH"
+1654251228058	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53869
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileLMNAmH\\search.json.mozlz4", (void 0)))
+1654251229962	Marionette	INFO	Listening on port 53891
+Read port: 53891
+DevTools listening on ws://localhost:53869/devtools/browser/ae41e081-c4f4-444a-8bc2-b99d20652f02
+1654251230154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261961544	Marionette	INFO	Stopped listening on port 53891
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+port: 53991
+DevTools listening on ws://localhost:53969/devtools/browser/417ab934-a3da-439a-adad-51a6b6b5443f
+1654251268062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261961517	Marionette	INFO	Stopped listening on port 53991
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+e" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilelvrDA7"
+1654251610991	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64184
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilelvrDA7\\search.json.mozlz4", (void 0)))
+1654251613719	Marionette	INFO	Listening on port 64209
+Read port: 64209
+DevTools listening on ws://localhost:64184/devtools/browser/57906738-56f9-4eb5-8d4c-5fe5fa5dd522
+1654251613775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261962212	Marionette	INFO	Stopped listening on port 64209
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64289" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilemRe8XP"
+1654251715598	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64289
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilemRe8XP\\search.json.mozlz4", (void 0)))
+1654251718382	Marionette	INFO	Listening on port 64313
+Read port: 64313
+DevTools listening on ws://localhost:64289/devtools/browser/17c94ebc-4375-4f34-a55d-b1e5b8c78bf6
+1654251718480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261961186	Marionette	INFO	Stopped listening on port 64313
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ing-port" "64399" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilecCRctW"
+1654251761213	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64399
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilecCRctW\\search.json.mozlz4", (void 0)))
+1654251763924	Marionette	INFO	Listening on port 64422
+Read port: 64422
+1654251764039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:64399/devtools/browser/776e7bae-47a1-419b-8fc1-f1d4f6632b29
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261960861	Marionette	INFO	Stopped listening on port 64422
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 996: Error: Connection is not open.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+4
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileWCMF3u\\search.json.mozlz4", (void 0)))
+1654251948598	Marionette	INFO	Listening on port 64537
+DevTools listening on ws://localhost:64514/devtools/browser/5519ac85-a5c3-44c0-a4b0-f40e9e32957d
+Read port: 64537
+1654251948675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261960804	Marionette	INFO	Stopped listening on port 64537
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileuOB09M"
+1654252325077	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56755
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileuOB09M\\search.json.mozlz4", (void 0)))
+1654252327543	Marionette	INFO	Listening on port 56778
+Read port: 56778
+DevTools listening on ws://localhost:56755/devtools/browser/c4e2eaaa-2989-4a28-8ea2-121fe19e30fd
+1654252327584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654252331322	Marionette	INFO	Stopped listening on port 56778
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\himan\AppData\Local\Temp\rust_mozprofileuOB09M\protections.sqlite
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654252576824	geckodriver	INFO	Listening on 127.0.0.1:55895
+1654252579889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55896" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofile6H3zzW"
+1654252580526	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55896
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofile6H3zzW\\search.json.mozlz4", (void 0)))
+1654252582804	Marionette	INFO	Listening on port 55920
+DevTools listening on ws://localhost:55896/devtools/browser/7be7a683-3909-4b62-8fbc-ae70efabcd64
+Read port: 55920
+1654252582869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261956567	Marionette	INFO	Stopped listening on port 55920
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55998" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileH7JAwe"
+1654252618786	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55998
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileH7JAwe\\search.json.mozlz4", (void 0)))
+1654252620722	Marionette	INFO	Listening on port 56022
+Read port: 56022
+1654252620811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:55998/devtools/browser/9f88d869-f457-4124-badb-486c5575b657
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261957589	Marionette	INFO	Stopped listening on port 56022
+4255333748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileeLZEGY"
+1654255334385	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:65519
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileeLZEGY\\search.json.mozlz4", (void 0)))
+1654255337061	Marionette	INFO	Listening on port 49160
+Read port: 49160
+1654255337111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:65519/devtools/browser/b431ebb2-26e6-47f5-b527-f0a9e3d0efab
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261959036	Marionette	INFO	Stopped listening on port 49160
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+e" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileA2B47F"
+1654255505278	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49265
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileA2B47F\\search.json.mozlz4", (void 0)))
+1654255507391	Marionette	INFO	Listening on port 49287
+Read port: 49287
+DevTools listening on ws://localhost:49265/devtools/browser/966a8494-356e-4526-bb46-7b884ff1ef46
+1654255507457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261956639	Marionette	INFO	Stopped listening on port 49287
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49312" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileVAQOGe"
+1654255527866	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49312
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileVAQOGe\\search.json.mozlz4", (void 0)))
+1654255529906	Marionette	INFO	Listening on port 49333
+DevTools listening on ws://localhost:49312/devtools/browser/52e59d2e-5aa0-4d8d-b6eb-a00d7b9f54be
+Read port: 49333
+1654255529993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261961447	Marionette	INFO	Stopped listening on port 49333
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileM9ZmPa"
+1654255544324	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49398
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileM9ZmPa\\search.json.mozlz4", (void 0)))
+1654255546230	Marionette	INFO	Listening on port 49694
+DevTools listening on ws://localhost:49398/devtools/browser/0b470053-4ffb-4688-b4a5-f105d16a9627
+Read port: 49694
+1654255546318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261960700	Marionette	INFO	Stopped listening on port 49694
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+e" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilewaJelO"
+1654255558523	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49761
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilewaJelO\\search.json.mozlz4", (void 0)))
+1654255560586	Marionette	INFO	Listening on port 49796
+DevTools listening on ws://localhost:49761/devtools/browser/a54c02f8-90e1-4fa2-a8a3-499f21bbcf97
+Read port: 49796
+1654255560710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261962253	Marionette	INFO	Stopped listening on port 49796
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+e" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilebPvKiR"
+1654256269343	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58571
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilebPvKiR\\search.json.mozlz4", (void 0)))
+1654256271984	Marionette	INFO	Listening on port 58594
+DevTools listening on ws://localhost:58571/devtools/browser/8db6efc1-643b-42f0-895e-e4bb089a8e2f
+Read port: 58594
+1654256272129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261957253	Marionette	INFO	Stopped listening on port 58594
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 996: Error: Connection is not open.
+2" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileenCYyO"
+1654256478855	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58702
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileenCYyO\\search.json.mozlz4", (void 0)))
+1654256480940	Marionette	INFO	Listening on port 58725
+Read port: 58725
+DevTools listening on ws://localhost:58702/devtools/browser/7047600d-384d-49bc-95b3-048e8a03a8d8
+1654256480985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261959513	Marionette	INFO	Stopped listening on port 58725
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58808" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilefAityv"
+1654256521178	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58808
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilefAityv\\search.json.mozlz4", (void 0)))
+1654256523788	Marionette	INFO	Listening on port 58832
+Read port: 58832
+DevTools listening on ws://localhost:58808/devtools/browser/63d8f356-6573-4bed-9248-14aed97c7f7d
+1654256523943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261960133	Marionette	INFO	Stopped listening on port 58832
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+e" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofile15Oscm"
+1654256793982	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58974
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofile15Oscm\\search.json.mozlz4", (void 0)))
+1654256796748	Marionette	INFO	Listening on port 58997
+DevTools listening on ws://localhost:58974/devtools/browser/63842b06-b14f-4573-9b62-4249ef1d82dc
+Read port: 58997
+1654256796885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261960716	Marionette	INFO	Stopped listening on port 58997
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55227" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilenE4YOW"
+1654257190202	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55227
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilenE4YOW\\search.json.mozlz4", (void 0)))
+1654257192618	Marionette	INFO	Listening on port 55250
+DevTools listening on ws://localhost:55227/devtools/browser/e677090a-542d-45e5-b730-1b1698d384d2
+Read port: 55250
+1654257192696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261959599	Marionette	INFO	Stopped listening on port 55250
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49725" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileOoL4SL"
+1654257645922	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49725
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileOoL4SL\\search.json.mozlz4", (void 0)))
+1654257648423	Marionette	INFO	Listening on port 49749
+Read port: 49749
+DevTools listening on ws://localhost:49725/devtools/browser/186fa31d-0af6-4e3e-8f79-9cdc60547dae
+1654257648522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261961906	Marionette	INFO	Stopped listening on port 49749
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60216" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofile155GRn"
+1654257792799	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60216
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofile155GRn\\search.json.mozlz4", (void 0)))
+1654257797613	Marionette	INFO	Listening on port 60243
+DevTools listening on ws://localhost:60216/devtools/browser/66a3466c-692e-4bb7-8d47-f8978b1ca5bd
+Read port: 60243
+1654257797809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261960239	Marionette	INFO	Stopped listening on port 60243
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 996: Error: Connection is not open.
+6" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofile3gpMdp"
+1654257885189	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53166
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofile3gpMdp\\search.json.mozlz4", (void 0)))
+1654257889505	Marionette	INFO	Listening on port 53192
+DevTools listening on ws://localhost:53166/devtools/browser/66cc6a46-ed30-4bcf-ae98-22a53885de9a
+Read port: 53192
+1654257889616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261961756	Marionette	INFO	Stopped listening on port 53192
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ing-port" "60001" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileqm2haB"
+1654258069809	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60001
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileqm2haB\\search.json.mozlz4", (void 0)))
+1654258075189	Marionette	INFO	Listening on port 60035
+Read port: 60035
+DevTools listening on ws://localhost:60001/devtools/browser/8f54f0f7-bc97-4197-8704-e3b0659cf2c7
+1654258075346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261957524	Marionette	INFO	Stopped listening on port 60035
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+9
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofile9mYk4W\\search.json.mozlz4", (void 0)))
+1654258202606	Marionette	INFO	Listening on port 60174
+DevTools listening on ws://localhost:60149/devtools/browser/a566fb56-6b64-43f7-9777-25f915a29d16
+Read port: 60174
+1654258202818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261959643	Marionette	INFO	Stopped listening on port 60174
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileknAWhN"
+1654258471370	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52409
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileknAWhN\\search.json.mozlz4", (void 0)))
+1654258473605	Marionette	INFO	Listening on port 52431
+Read port: 52431
+1654258473744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:52409/devtools/browser/ec430d79-0c08-46ae-8b8e-dfd950711981
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654261958843	Marionette	INFO	Stopped listening on port 52431
+[Parent 25780, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654265176093	geckodriver	INFO	Listening on 127.0.0.1:63871
+1654265179144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63872" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofiledCLr6F"
+1654265181859	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63872
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofiledCLr6F\\search.json.mozlz4", (void 0)))
+1654265183906	Marionette	INFO	Listening on port 63898
+DevTools listening on ws://localhost:63872/devtools/browser/89523f96-3d13-4da3-acce-e27c9f31e4c1
+Read port: 63898
+1654265183989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QVskxRw7CvsogGZyHRgqudPcMMWoBc1HqTdFrXgdWFU.js line 2 > eval line 986 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
