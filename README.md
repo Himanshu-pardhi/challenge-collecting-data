@@ -7,14 +7,19 @@ Description  :- This project helpsv to collect all the sale property information
 Installation :-
 Clone the repo
 git clone git@github.com:Himanshu-pardhi/challenge-collecting-data.git
+
 Install Requests
  pip3 install requests
+
 Install Beautiful Soup
  pip3 install beautifulsoup4
+
 Install Selenium
  pip install selenium
+
 Install Pandas
  pip3 install pandas
+
 Install Visual Studio Code
  pip3 install VS Code
 
