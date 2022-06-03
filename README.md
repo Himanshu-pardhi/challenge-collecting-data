@@ -5,25 +5,25 @@ Web scraping :- Real Estate (https://www.immoweb.be/en)
 Description  :- This project helpsv to collect all the sale property information from Immoweb Real Estate website and saves it into CSV file.
 
 Installation :-
-Clone the repo
+Clone the repo -
 git clone git@github.com:Himanshu-pardhi/challenge-collecting-data.git
 
-Install Requests
+Install Requests -
  pip3 install requests
 
-Install Beautiful Soup
+Install Beautiful Soup -
  pip3 install beautifulsoup4
 
-Install Selenium
+Install Selenium -
  pip install selenium
 
-Install Pandas
+Install Pandas -
  pip3 install pandas
 
-Install Visual Studio Code
+Install Visual Studio Code -
  pip3 install VS Code
 
-Usage
+Usage :-
 
 Contributors :- Google serching helped me a lot also My coach and team guide me when needed.
 Timeline :- 03/06/2022 Saturday 04:00 PM
